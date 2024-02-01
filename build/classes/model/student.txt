@@ -1,0 +1,10 @@
+ID = DE180001, Full Name = Anton, Address = Vietnam,DaNang,NguHanhSon,VQH, Java Score =8.2, CSS Score = 6.6, GPA = 7.79
+ID = DE180002, Full Name = Nhi, Address = Vietnam,DaNang,NguHanhSon,HVN, Java Score = 8.0, Css Score = 6.0, GPA = 7.5
+ID = DE170003, Full Name = Hung, Address = Vietnam,DakLak,BuonMaThuoc,HHT, Java Score = 10, Css Score = 8.5, GPA = 9.63
+ID = DE170004, Full Name = Thuy, Address = Vietnam,NhaTrang,KhanhHoa,QT, Java Score = 7.2, Css Score = 4.0, GPA = 6.4
+ID = DE180005, Full Name = Khanh, Address = Vietnam,DaLac,DaLac,NT, Java Score = 5.4, Css Score = 6.0, GPA = 7.7
+ID = DS180001, Full Name = Quy, Address = Vietnam,DaNang, NHS, VCC,Accounting Score = 7.4, Marketing Score = 6.8, GPA = 7.2
+ID = DS170002, Full Name = Anna, Address = Vietnam,DaNang, HaiChau,TNV, Accounting Score = 8.0, Marketing Score = 9.0, GPA = 8.3
+ID = DS180003, Full Name = Minh, Address = Vietnam,Hue,Hue,NH,Accounting Score = 4.5, Marketing Score = 7.3, GPA = 5.43
+ID = DS160004, Full Name = Phong, Address = Vietnam,NgheAn,Vinh,NTT, Accounting Score = 9.1, Marketing Score = 6.8, GPA = 8.3
+ID = DS180005, Full Name = Huong, Address = Vietnam,Danang,NHS,HVN, Accounting Score = 7.6, Marketing Score = 8.4, GPA = 7.87
